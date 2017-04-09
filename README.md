@@ -11,10 +11,7 @@ speeches are great for training really funny Markov Chains.
 
 ## Setup
 
-*First of all* put your slackbot token in a file called 'token' in the root
+1. put your slackbot token in a file called 'token' in the root
 directory. Then run:
-
-```
-npm install
-node index.js
-```
+2. Set up Google Cloud Platform properly
+3. Run: ``` npm install node index.js ```
